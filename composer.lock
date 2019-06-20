@@ -3066,7 +3066,7 @@
             "version": "dev-1.x",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/default_content",
+                "url": "https://git.drupalcode.org/project/default_content.git",
                 "reference": "13f97c93eeaf4da9f84cc3fdcc0c91d32284132c"
             },
             "require": {
