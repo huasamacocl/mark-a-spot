@@ -3656,7 +3656,7 @@
             "version": "dev-1.x",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/field_permissions",
+                "url": "https://git.drupalcode.org/project/field_permissions.git",
                 "reference": "1f0e557e7ea406b34d48774a0c5f1febcea22b03"
             },
             "require": {
