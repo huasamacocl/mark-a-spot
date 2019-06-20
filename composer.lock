@@ -4543,7 +4543,7 @@
             "version": "dev-3.x",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/rules",
+                "url": "https://git.drupalcode.org/project/rules.git",
                 "reference": "f6f5f7a6f3b58d752fa23118afe653c321e7852f"
             },
             "require": {
@@ -4604,7 +4604,7 @@
             "version": "1.10.0",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/search_api",
+                "url": "https://git.drupalcode.org/project/search_api.git",
                 "reference": "8.x-1.10"
             },
             "dist": {
@@ -4675,7 +4675,7 @@
             "version": "1.0.0",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/services_api_key_auth",
+                "url": "https://git.drupalcode.org/project/services_api_key_auth.git",
                 "reference": "8.x-1.0"
             },
             "dist": {
@@ -4730,7 +4730,7 @@
             "version": "dev-1.x",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/shariff",
+                "url": "https://git.drupalcode.org/project/shariff.git",
                 "reference": "2106f351442fc2b9cbc917d627ae21c2b5436474"
             },
             "require": {
@@ -4792,7 +4792,7 @@
             "version": "1.4.0",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/tac_lite",
+                "url": "https://git.drupalcode.org/project/tac_lite.git",
                 "reference": "8.x-1.4"
             },
             "dist": {
@@ -4843,7 +4843,7 @@
             "version": "1.4.0",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/token",
+                "url": "https://git.drupalcode.org/project/token.git",
                 "reference": "8.x-1.4"
             },
             "dist": {
@@ -4910,7 +4910,7 @@
             "version": "2.1.0",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/twig_tweak",
+                "url": "https://git.drupalcode.org/project/twig_tweak.git",
                 "reference": "8.x-2.1"
             },
             "dist": {
@@ -4965,7 +4965,7 @@
             "version": "1.0.0-alpha2",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/typed_data",
+                "url": "https://git.drupalcode.org/project/typed_data.git",
                 "reference": "8.x-1.0-alpha2"
             },
             "dist": {
