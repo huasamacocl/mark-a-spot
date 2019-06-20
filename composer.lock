@@ -2978,7 +2978,7 @@
             "version": "dev-3.x",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/ctools",
+                "url": "https://git.drupalcode.org/project/ctools.git",
                 "reference": "cacb04bb21b8bb2ecfc80947f7fd878ea7330d0f"
             },
             "require": {
