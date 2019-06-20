@@ -2374,7 +2374,7 @@
             "version": "dev-2.x",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/color_field",
+                "url": "https://git.drupalcode.org/project/color_field.git",
                 "reference": "3ea1cd565fa34436e8ed922600459ea3085d84bd"
             },
             "require": {
@@ -5978,11 +5978,11 @@
             "time": "2017-05-10T09:20:27+00:00"
         },
         {
-            "name": "markaspot/markaspot",
+            "name": "huasamacocl/markaspot",
             "version": "8.4.4",
             "source": {
                 "type": "git",
-                "url": "https://github.com/markaspot/markaspot.git",
+                "url": "https://github.com/huasamacocl/mark-a-spot.git",
                 "reference": "4faefc1dcf6d7dcbb0bd4158fc0625579ad7f609"
             },
             "dist": {
