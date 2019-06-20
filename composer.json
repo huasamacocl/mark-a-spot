@@ -43,7 +43,7 @@
         "commerceguys/addressing": "~1.0",
         "commerceguys/intl": "~0.7",
         "commerceguys/zone": "~1.0",
-        "huasamacocl/mark-a-spot": "^8.4",
+        "markaspot/markaspot": "^8.4",
         "oomphinc/composer-installers-extender": "^1.1",
         "composer/installers": "^1.2",
         "cweagans/composer-patches": "^1.6.5",
