@@ -4352,7 +4352,7 @@
             "version": "dev-1.x",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/r4032login",
+                "url": "https://git.drupalcode.org/project/r4032login.git",
                 "reference": "a10444360f0d738e7517616fa30d60b5b1da0871"
             },
             "require": {
